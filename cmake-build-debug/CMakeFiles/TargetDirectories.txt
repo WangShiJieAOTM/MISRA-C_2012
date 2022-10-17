@@ -1,0 +1,3 @@
+/mnt/d/NoteBook/MISRA-C_2012/cmake-build-debug/CMakeFiles/MISRA_C_2004.dir
+/mnt/d/NoteBook/MISRA-C_2012/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/NoteBook/MISRA-C_2012/cmake-build-debug/CMakeFiles/rebuild_cache.dir

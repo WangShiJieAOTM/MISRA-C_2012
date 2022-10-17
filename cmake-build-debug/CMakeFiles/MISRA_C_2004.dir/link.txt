@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/MISRA_C_2004.dir/main.c.o -o MISRA_C_2004 
